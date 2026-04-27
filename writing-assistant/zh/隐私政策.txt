@@ -55,5 +55,5 @@
 本软件面向18周岁及以上用户。未成年人需在监护人同意下使用本软件，我们不主动收集未成年人的任何个人信息；若监护人发现未成年人误使用本软件并产生相关数据，可联系我们协助删除，我们将积极配合。
 六、联系我们
 若您对本隐私政策有任何疑问、投诉或建议，可通过以下方式联系我们：
-联系邮箱：support@luochenwriter.com
-GitHub地址：https://github.com/yourname/luochen-writer（请替换为您的实际仓库地址）
+联系邮箱：luochen_keji@yahoo.com
+GitHub地址：https://github.com/luochen-keji/project-policies/writing-assistant
