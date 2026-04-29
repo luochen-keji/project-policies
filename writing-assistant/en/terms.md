@@ -1,5 +1,9 @@
 
 # User Agreement
+
+**Updated Date: April 29, 2026** <br> 
+**Effective Date: April 29, 2026**<br>
+
   Welcome to use Luochen Writing Assistant (hereinafter referred to as the "Software"). The Software is independently developed and provided by the developer (hereinafter referred to as "Us"). By downloading, installing and using the Software, you confirm that you have carefully read, fully understood and agreed to all terms of this Agreement. If you do not accept this Agreement, you shall not download, install or use the Software.<br>
   This Agreement may be revised along with functional iterations of the Software (including without limitation the addition of account login, cloud synchronization and paid services). The revised terms will be prominently displayed within the Software and on the GitHub user agreement page, and shall take effect upon publication. Your continued use of the Software constitutes acceptance of the revised Agreement. If you object to the revised terms, you may stop using the Software, and all rights and obligations between both parties shall terminate accordingly.
 ## 1. Software Positioning & Service Scope
@@ -46,5 +50,3 @@ You agree to comply with the following provisions during use. Violation of these
 If you have any questions, complaints or suggestions regarding this Agreement, please contact us through the following methods:<br>
 Email: support@luochenwriter.com<br>
 
-Effective Date: April 29, 2026<br>
-Updated Date: April 29, 2026<br>
